@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="682ea27a-500b-4586-8291-b3ade27e340a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Quizzler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="682ea27a-500b-4586-8291-b3ade27e340a" name="Changes" comment="api, html unescape">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler-app-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler-app-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler-app-start/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler-app-start/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler-app-start/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler-app-start/ui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Gambit-Rogue83"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gambit-Rogue83/quiz-game2.git",
+    "accountId": "326b0221-cdb7-4647-af87-29e8834d4264"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -32,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -57,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714846848233</updated>
     </task>
+    <task id="LOCAL-00001" summary="api, html unescape">
+      <option name="closed" value="true" />
+      <created>1714850975467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714850975467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="api, html unescape" />
+    <option name="LAST_COMMIT_MESSAGE" value="api, html unescape" />
   </component>
 </project>
